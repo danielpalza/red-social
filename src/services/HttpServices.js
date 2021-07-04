@@ -12,7 +12,7 @@ export class HttpService {
 
     async get(url, queryParams) {
         try {
-            console.log({url,queryParams})
+          
             let response = await fetch(ROOT_URL + this.getUrl(url) + this.mapQueryParams(queryParams), {
                 headers: this.headers
             })
