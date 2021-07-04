@@ -1,6 +1,6 @@
 # Red Social
 
-##Iniciar pagina
+## Iniciar pagina
 
 1. Clonar aplicacion escribiendo en una terminal "npm clone https://github.com/danielpalza/red-social.git"
 2. Seguido de esto, escribir "npm install"
